@@ -5,7 +5,7 @@
        title="Maasai: Indigenous People "
        author="By: Kaylee, Marshury, and Sadie"
        banner="https://iiif.juncture-digital.org/banner/?
-               url= https://www.andbeyond.com/wp-content/uploads/sites/5/Maasai-Women-Leading-Change.jpg" 
+               url= https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170203192204-restricted-maasai-tanzania-wildlife-warriors-3.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
