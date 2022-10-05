@@ -4,8 +4,7 @@
 <param ve-config 
        title="Maasai: Indigenous People "
        author="By: Kaylee, Marshury, and Sadie"
-       banner="https://iiif.juncture-digital.org/banner/?
-               url= https://www.amboseliparkkenya.com/wp-content/uploads/2022/02/Maasai-2.png" 
+       banner="https://iiif.juncture-digital.org/banner/?url= https://www.amboseliparkkenya.com/wp-content/uploads/2022/02/Maasai-2.png" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
