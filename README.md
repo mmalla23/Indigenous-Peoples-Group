@@ -42,6 +42,7 @@ The Maasai People are thought to have originated in the Upper Nile Valley. Since
 
 # Basic Facts
 
+
 ## Population Size
 It has been estimated that there are 1,200,000 Maasai people living in Kenya and Tanzania. It is important to note that many Maasai people doubt these numbers as some have been counted multiple times and other opt to not be counted. 
 
@@ -53,7 +54,7 @@ Maasai people speak Maa, an eastern Nilotic language, in Southern Kenya and Nort
 The monotheistic Maasai people believe in the god, Enkai, and that they are god’s chosen people.
 ## Other Cultural Features
 
-# Treaties
+# Treaties 
 The Maasai Agreement of 1904 is the most important treaty centered around this indigenous group. It is often called the Anglo-Maasai Treaty, but that is an incorrect name. In this treaty, the Maasai agreed to ced possession of pastures in the central rift valley in return for exclusive rights of two territories, Kajiado and Laikipia.
 
 The background of this treaty starts with an influx of land for the Maasai people after the war of Iliokop, as they were struggling to control and occupy this new terrotory. Other tribes would infiltrate their land, ruining their agricultural and cattle advances. This began the period traditionally known as “The Disaster.” Disease ravanged the grazing land and cattle, and as a result the Maasai people raided neighboring tribes and groups. After this, the British East Africa rotectorate Government came into view, which for a short time worked together with the Maasai. 
@@ -69,7 +70,7 @@ In 1891, the equilibrium was decimated and when the settler arrived, they believ
 Treaty mentioned above gave some land back, but grazing dry land still was stolen
 Very small cultural groups have been forced to extinction due to natural park development
 
-## Viewers
+## Conclusion
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
