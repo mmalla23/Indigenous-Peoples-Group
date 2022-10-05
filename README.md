@@ -37,11 +37,11 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+The Maasai People are thought to have originated in the Upper Nile Valley. Since they have spread throughout southern areas of Kenya and northern areas of Tanzania (310 miles/500 kilometers north to south Maasailand). They are bounded by Lake Victoria to the west and Mt. Kilimanjaro to the East (180/300 kilometers miles east to west Maasailand). They occupy 160,000 square kilometers of land in this area. 
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 # Environmental Challenges 
+
 
 ## Viewers
 
