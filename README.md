@@ -61,6 +61,7 @@ The background of this treaty starts with an influx of land for the Maasai peopl
 
 # Environmental Challenges
 Before East Africa was colonized, the indigenous East Africans lived in harmony with the wildlife. But, as Europeans began dominating the area, indigenous Africans were forced to relocate so the Europeans could settle their rightful land. 
+
 “As conservationists establish East African national parks to preserve important ecosystems, they are actually trying to preserve East Africa under the tutelage of its native peoples: the Maasai, the Rendille, the Kikuyu...It is ironic, then, that one of the first steps in establishing a national park is to rid the region of its original caretakers.”
 The Maasai people span many many different regions and are impacted by the establishment of national parks, as they are kicked off of their rightful land.
 Maasai was frequented by drought, but not a problem until Europeans arrived, then they started sometimes hunting for necessity instead of just drinking milk and blood of cows
