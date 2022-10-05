@@ -22,7 +22,7 @@ The Maasai peoples have faced human rights violations through assimilation and r
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Background
+# Brief History
 
 ## Image
 
@@ -54,11 +54,10 @@ Maasai people speak Maa, an eastern Nilotic language, in Southern Kenya and Nort
 The monotheistic Maasai people believe in the god, Enkai, and that they are god’s chosen people.
 ## Other Cultural Features
 
-# Treaties 
+# Treaties and Their Impact
 The Maasai Agreement of 1904 is the most important treaty centered around this indigenous group. It is often called the Anglo-Maasai Treaty, but that is an incorrect name. In this treaty, the Maasai agreed to ced possession of pastures in the central rift valley in return for exclusive rights of two territories, Kajiado and Laikipia.
 
 The background of this treaty starts with an influx of land for the Maasai people after the war of Iliokop, as they were struggling to control and occupy this new terrotory. Other tribes would infiltrate their land, ruining their agricultural and cattle advances. This began the period traditionally known as “The Disaster.” Disease ravanged the grazing land and cattle, and as a result the Maasai people raided neighboring tribes and groups. After this, the British East Africa rotectorate Government came into view, which for a short time worked together with the Maasai. 
-
 
 # Environmental Challenges
 Before East Africa was colonized, the indigenous East Africans lived in harmony with the wildlife. But, as Europeans began dominating the area, indigenous Africans were forced to relocate so the Europeans could settle their rightful land. 
@@ -70,7 +69,9 @@ In 1891, the equilibrium was decimated and when the settler arrived, they believ
 Treaty mentioned above gave some land back, but grazing dry land still was stolen
 Very small cultural groups have been forced to extinction due to natural park development
 
-## Conclusion
+# Ongoing Human Rights Concerns/Impacts
+
+# Conclusion
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
