@@ -4,7 +4,7 @@
 <param ve-config 
        title="Maasai: Indigenous People "
        author="By: Kaylee, Marshury, and Sadie"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/File:Maasai_tribe.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/9/99/Maasai_tribe.jpg" 
        layout="vertical">
        
 
