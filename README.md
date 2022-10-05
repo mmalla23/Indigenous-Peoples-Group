@@ -16,6 +16,7 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
+
 # Thesis
 
 The Maasai peoples have faced human rights violations through assimilation and relocation which has hindered their ability to continue/maintain their cultural practices.  [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
