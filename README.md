@@ -4,8 +4,9 @@
 <param ve-config 
        title="Maasai: Indigenous People "
        author="By: Kaylee, Marshury, and Sadie"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/File:Maasai_tribe.jpg" 
        layout="vertical">
+       
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -42,7 +43,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 
 # Environmental Challenges 
 
-## Multiple viewers
+## Viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
@@ -53,3 +54,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 # Resources/Works Cited
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+
