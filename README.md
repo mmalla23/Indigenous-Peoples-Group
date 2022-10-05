@@ -66,10 +66,12 @@ Before East Africa was colonized, the indigenous East Africans lived in harmony 
 The Maasai people span many many different regions and are impacted by the establishment of national parks, as they are kicked off of their rightful land.
 Maasai was frequented by drought, but not a problem until Europeans arrived, then they started sometimes hunting for necessity instead of just drinking milk and blood of cows
 In 1891, the equilibrium was decimated and when the settler arrived, they believed they were setting on new wildlife, though this land belonged to the Maasai
-Treaty mentioned above gave some land back, but grazing dry land still was stolen
+Treaty mentioned above gave some land back, but grazing dry land still was stolen.
 Very small cultural groups have been forced to extinction due to natural park development
 
 # Ongoing Human Rights Concerns/Impacts
+Human rights being violated through assimilation and relocation, mentioned above 
+“Human rights violations have been committed, including torture, illegal imprisonment, shooting and wounding people, killing and maiming livestock, destroying property, and forced evictions and land dispossession, despite vocal condemnation by the international community and numerous civil society organizations and coalitions.”
 
 # Conclusion
 
