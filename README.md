@@ -66,4 +66,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 # Resources/Works Cited
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
-[^2]:
+[^2]: 
