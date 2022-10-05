@@ -44,6 +44,9 @@ The Maasai People are thought to have originated in the Upper Nile Valley. Since
 
 ## Population Size
 It has been estimated that there are 1,200,000 Maasai people living in Kenya and Tanzania. It is important to note that many Maasai people doubt these numbers as some have been counted multiple times and other opt to not be counted. 
+
+“Please note that Most Maasai doubt these numbers. Many Maasai see the national census as government meddling and often miscount their numbers to census takers. Some people want to be counted ten times while others refused to be counted.”[^2]
+
 ## Language
 Maasai people speak Maa, an eastern Nilotic language, in Southern Kenya and Northern Tanzania. 
 ## Religion
@@ -63,4 +66,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 # Resources/Works Cited
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
-
+[^2]:
