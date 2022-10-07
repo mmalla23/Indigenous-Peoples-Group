@@ -55,6 +55,10 @@ The monotheistic Maasai people believe in the god, Enkai, and that they are god�
 The Maasai Agreement of 1904 is the most important treaty centered around this indigenous group. It is often called the Anglo-Maasai Treaty, but that is an incorrect name. In this treaty, the Maasai agreed to cease possession of pastures in the central rift valley in return for exclusive rights of two territories, Kajiado and Laikipia. 
 The background of this treaty starts with an influx of land for the Maasai people after the war of Iliokop, as they were struggling to control and occupy this new territory. Other tribes would infiltrate their land, ruining their agricultural and cattle advances. This began the period traditionally known as “The Disaster.” Disease ravaged the grazing land and cattle, and as a result the Maasai people raided neighboring tribes and groups. After this, the British East Africa rotectorate Government came into view, which for a short time worked together with the Maasai. 
 
+<param ve-video
+	id="https://www.youtube.com/embed/ThcppnztYpw"
+	title="The Life in Maasai Tribal|Emmanuel Milia Mankura|TEDxHongKongLive.">
+
 
 # Environmental Challenges
 Before East Africa was colonized, the indigenous East Africans lived in harmony with the wildlife. But, as Europeans began dominating the area, indigenous Africans were forced to relocate so the Europeans could settle their rightful land. 
