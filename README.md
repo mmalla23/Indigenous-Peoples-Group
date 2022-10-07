@@ -24,6 +24,7 @@ The Maasai peoples have faced human rights violations through assimilation and r
 
 
 # Brief History
+https://www.youtube.com/watch?v=ThcppnztYpw
 
 ## Map
 
@@ -47,9 +48,10 @@ Maasai people speak Maa, an eastern Nilotic language, in Southern Kenya and Nort
 The monotheistic Maasai people believe in the god, Enkai, and that they are god’s chosen people.
 
 # Treaties and Their Impact
-The Maasai Agreement of 1904 is the most important treaty centered around this indigenous group. It is often called the Anglo-Maasai Treaty, but that is an incorrect name. In this treaty, the Maasai agreed to ced possession of pastures in the central rift valley in return for exclusive rights of two territories, Kajiado and Laikipia.
 
-The background of this treaty starts with an influx of land for the Maasai people after the war of Iliokop, as they were struggling to control and occupy this new terrotory. Other tribes would infiltrate their land, ruining their agricultural and cattle advances. This began the period traditionally known as “The Disaster.” Disease ravanged the grazing land and cattle, and as a result the Maasai people raided neighboring tribes and groups. After this, the British East Africa rotectorate Government came into view, which for a short time worked together with the Maasai. 
+The Maasai Agreement of 1904 is the most important treaty centered around this indigenous group. It is often called the Anglo-Maasai Treaty, but that is an incorrect name. In this treaty, the Maasai agreed to cease possession of pastures in the central rift valley in return for exclusive rights of two territories, Kajiado and Laikipia. 
+The background of this treaty starts with an influx of land for the Maasai people after the war of Iliokop, as they were struggling to control and occupy this new territory. Other tribes would infiltrate their land, ruining their agricultural and cattle advances. This began the period traditionally known as “The Disaster.” Disease ravaged the grazing land and cattle, and as a result the Maasai people raided neighboring tribes and groups. After this, the British East Africa rotectorate Government came into view, which for a short time worked together with the Maasai. 
+
 
 # Environmental Challenges
 Before East Africa was colonized, the indigenous East Africans lived in harmony with the wildlife. But, as Europeans began dominating the area, indigenous Africans were forced to relocate so the Europeans could settle their rightful land. 
@@ -61,7 +63,7 @@ In 1891, the equilibrium was decimated and when the settler arrived, they believ
 Treaty mentioned above gave some land back, but grazing dry land still was stolen.
 Very small cultural groups have been forced to extinction due to natural park development
 
-# Ongoing Human Rights Concerns/Impacts
+# Ongoing Human Rights Concerns
 Human rights being violated through assimilation and relocation, mentioned above 
 “Human rights violations have been committed, including torture, illegal imprisonment, shooting and wounding people, killing and maiming livestock, destroying property, and forced evictions and land dispossession, despite vocal condemnation by the international community and numerous civil society organizations and coalitions.”
 
