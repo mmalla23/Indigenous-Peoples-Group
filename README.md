@@ -22,20 +22,15 @@ The Maasai peoples have faced human rights violations through assimilation and r
 
 
 # Brief History
-## TedTalk
+	
+The Maasai People are thought to have originated in the Upper Nile Valley. Since they have spread throughout southern areas of Kenya and northern areas of Tanzania (310 miles/500 kilometers north to south Maasailand). They are bounded by Lake Victoria to the west and Mt. Kilimanjaro to the East (180/300 kilometers miles east to west Maasailand). They occupy 160,000 square kilometers of land in this area. 
 
 <param ve-video
 	id="https://www.youtube.com/embed/ThcppnztYpw"
 	title="The Life in Maasai Tribal|Emmanuel Milia Mankura|TEDxHongKongLive.">
-	
-
-## Map
-
-The Maasai People are thought to have originated in the Upper Nile Valley. Since they have spread throughout southern areas of Kenya and northern areas of Tanzania (310 miles/500 kilometers north to south Maasailand). They are bounded by Lake Victoria to the west and Mt. Kilimanjaro to the East (180/300 kilometers miles east to west Maasailand). They occupy 160,000 square kilometers of land in this area. 
 
 <param ve-graphic img="http://the-maasai-people.weebly.com/uploads/4/3/6/4/43642901/622985106.gif?273" title="Map">
 
-<param ve-graphic center="Q36600" zoom="11" prefer-geojson>
 
 # Basic Facts
 
