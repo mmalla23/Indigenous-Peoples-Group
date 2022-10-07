@@ -40,7 +40,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 The Maasai People are thought to have originated in the Upper Nile Valley. Since they have spread throughout southern areas of Kenya and northern areas of Tanzania (310 miles/500 kilometers north to south Maasailand). They are bounded by Lake Victoria to the west and Mt. Kilimanjaro to the East (180/300 kilometers miles east to west Maasailand). They occupy 160,000 square kilometers of land in this area. 
 
-<param ve-graphic img="http://www.maasai-association.org/Maasaimap.gif" title="Map">
+<param ve-graphic img="http://the-maasai-people.weebly.com/uploads/4/3/6/4/43642901/622985106.gif?273" title="Map">
 
 <param ve-image center="Q36600" zoom="11" prefer-geojson>
 
