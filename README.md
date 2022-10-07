@@ -11,14 +11,14 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q185372"> <!-- testing 1-->
+<param ve-entity eid="Q41264"> <!-- testing 2 -->
+<param ve-entity eid="Q221092"> <!-- testing 3 -->
+<param ve-entity eid="Q36600"> <!-- testing 4 -->
 
 # Thesis
 
-The Maasai peoples have faced human rights violations through assimilation and relocation which has hindered their ability to continue/maintain their cultural practices.  [examples](https://jstor-labs.github.io/juncture-examples)
+The Maasai peoples have faced human rights violations through assimilation and relocation which has hindered their ability to continue/maintain their cultural practices.
 
 
 # Brief History
@@ -70,16 +70,6 @@ Human rights being violated through assimilation and relocation, mentioned above
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
-
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-
 
 
 # Bibilography
