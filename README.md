@@ -19,7 +19,7 @@
 
 # Thesis
 
-The Maasai peoples have faced human rights violations through assimilation and relocation which has hindered their ability to continue/maintain their cultural practices.  [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+The Maasai peoples have faced human rights violations through assimilation and relocation which has hindered their ability to continue/maintain their cultural practices.  [examples](https://jstor-labs.github.io/juncture-examples)
 
 
 
@@ -31,7 +31,7 @@ The Maasai People are thought to have originated in the Upper Nile Valley. Since
 
 <param ve-graphic img="http://the-maasai-people.weebly.com/uploads/4/3/6/4/43642901/622985106.gif?273" title="Map">
 
-<param ve-image center="Q36600" zoom="11" prefer-geojson>
+<param ve-graphic center="Q36600" zoom="11" prefer-geojson>
 
 # Basic Facts
 
