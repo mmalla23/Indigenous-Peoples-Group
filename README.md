@@ -45,7 +45,6 @@ It has been estimated that there are 1,200,000 Maasai people living in Kenya and
 Maasai people speak Maa, an eastern Nilotic language, in Southern Kenya and Northern Tanzania. 
 ## Religion
 The monotheistic Maasai people believe in the god, Enkai, and that they are god’s chosen people.
-## Other Cultural Features
 
 # Treaties and Their Impact
 The Maasai Agreement of 1904 is the most important treaty centered around this indigenous group. It is often called the Anglo-Maasai Treaty, but that is an incorrect name. In this treaty, the Maasai agreed to ced possession of pastures in the central rift valley in return for exclusive rights of two territories, Kajiado and Laikipia.
@@ -91,6 +90,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 
 # Bibilography
-
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
 [^2]: [Maasai Association](http://www.maasai-association.org/maasai.html)
