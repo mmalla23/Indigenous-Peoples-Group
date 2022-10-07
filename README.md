@@ -24,7 +24,9 @@ The Maasai peoples have faced human rights violations through assimilation and r
 
 
 # Brief History
-https://www.youtube.com/watch?v=ThcppnztYpw
+<param ve-video
+	id="https://youtu.be/ThcppnztYpw"
+	title="The Life in Maasai Tribal|Emmanuel Milia Mankura|TEDxHongKongLive">
 
 ## Map
 
