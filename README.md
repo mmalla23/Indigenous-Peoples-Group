@@ -60,8 +60,11 @@ Maasai was frequented by drought, but not a problem until Europeans arrived, the
 In 1891, the equilibrium was decimated and when the settler arrived, they believed they were setting on new wildlife, though this land belonged to the Maasai
 Treaty mentioned above gave some land back, but grazing dry land still was stolen.
 Very small cultural groups have been forced to extinction due to natural park development
+
 <param ve-compare sync url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051615643/Maasai-pastoralists-livin-011.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=b79ae3ee57db2a0e31d758f9252c78be">
-<param ve-compare url="https://stor.artstor.org/stor/1420f054-9ba2-427b-b007-6aa22a7e785d">
+<param ve-compare url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051614542/Maasai-pastoralists-livin-010.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=6f19a2e9ace5f34b8b7e3fc233c6f330">
+<param ve-compare url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051605827/Maasai-pastoralists-livin-002.jpg?">
+<param ve-compare url=" https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051611437/Maasai-pastoralists-livin-007.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=22bb55c6b6ed5a9d6d467db43964216e">
 
 # Ongoing Human Rights Concerns
 Human rights being violated through assimilation and relocation, mentioned above 
