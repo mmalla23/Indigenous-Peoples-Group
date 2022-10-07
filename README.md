@@ -61,9 +61,9 @@ In 1891, the equilibrium was decimated and when the settler arrived, they believ
 Treaty mentioned above gave some land back, but grazing dry land still was stolen.
 Very small cultural groups have been forced to extinction due to natural park development
 
-<param ve-compare sync url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051615643/Maasai-pastoralists-livin-011.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=b79ae3ee57db2a0e31d758f9252c78be">
+<param ve-compare curtain url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051615643/Maasai-pastoralists-livin-011.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=b79ae3ee57db2a0e31d758f9252c78be">
 <param ve-compare url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051614542/Maasai-pastoralists-livin-010.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=6f19a2e9ace5f34b8b7e3fc233c6f330">
-<param ve-compare url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051614542/Maasai-pastoralists-livin-010.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=6f19a2e9ace5f34b8b7e3fc233c6f330">
+<param ve-compare url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051617990/Maasai-pastoralists-livin-013.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=a2212d64f328042d9f059ecead693303">
 
 # Ongoing Human Rights Concerns
 Human rights being violated through assimilation and relocation, mentioned above 
