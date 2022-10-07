@@ -64,9 +64,6 @@ Very small cultural groups have been forced to extinction due to natural park de
 <param ve-compare sync url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051615643/Maasai-pastoralists-livin-011.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=b79ae3ee57db2a0e31d758f9252c78be">
 <param ve-compare url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051614542/Maasai-pastoralists-livin-010.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=6f19a2e9ace5f34b8b7e3fc233c6f330">
 
-<param ve-compare url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051605827/Maasai-pastoralists-livin-002.jpg?">
-<param ve-compare url=" https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051611437/Maasai-pastoralists-livin-007.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=22bb55c6b6ed5a9d6d467db43964216e">
-
 # Ongoing Human Rights Concerns
 Human rights being violated through assimilation and relocation, mentioned above 
 “Human rights violations have been committed, including torture, illegal imprisonment, shooting and wounding people, killing and maiming livestock, destroying property, and forced evictions and land dispossession, despite vocal condemnation by the international community and numerous civil society organizations and coalitions.”
