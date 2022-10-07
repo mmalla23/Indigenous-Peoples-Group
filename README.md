@@ -21,11 +21,12 @@
 
 The Maasai peoples have faced human rights violations through assimilation and relocation which has hindered their ability to continue/maintain their cultural practices.  [examples](https://jstor-labs.github.io/juncture-examples)
 
+id="https://www.youtube.com/embed/C0CIRCjoICA"
 
 
 # Brief History
 <param ve-video
-	id="https://youtu.be/ThcppnztYpw"
+       id= <iframe width="560" height="315" src="https://www.youtube.com/embed/ThcppnztYpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	title="The Life in Maasai Tribal|Emmanuel Milia Mankura|TEDxHongKongLive">
 
 ## Map
