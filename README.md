@@ -32,6 +32,9 @@ The Maasai People are thought to have originated in the Upper Nile Valley. Since
 <param ve-graphic img="http://the-maasai-people.weebly.com/uploads/4/3/6/4/43642901/622985106.gif?273" title="Map">
 
 
+<param ve-image label="Map" url="http://www.101lasttribes.com/maps/masai_map.jpg">
+
+
 # Basic Facts
 
 
