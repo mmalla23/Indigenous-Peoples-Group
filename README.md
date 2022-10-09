@@ -46,7 +46,18 @@ The monotheistic Maasai people believe in the god, Enkai, and that they are godâ
 
 <param ve-image label="Map" url="https://www.masaimara.travel/images/Maasai%20Elders.jpg">
 
-## Cultural Features 
+## Cultural Features
+
+-Practice polygamy
+-Engagement in genital mutilation/cutting
+-Required to undergo the intiation ritual to be considered a full member of the community
+known for herding goats and cattle (only value recognized within Maasai), main concern is livestock, larger herd = higher social status, women milk cows and do housework, men herd cows, 
+-Patriarchal society - male elders control village
+-Communal societal system: several blood-related families live together, share responsibility of cattle
+-Ceremony of fire marks - boys have to run over hot coal to test willpower
+-Milk and meat ceremonies as part of initiation into higher warrior rankings
+-Must drink the blood of their cows and kill a lion 
+
 
 # Treaties and Their Impact
 
