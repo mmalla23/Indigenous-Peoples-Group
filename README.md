@@ -17,13 +17,11 @@
 <param ve-entity eid="Q36600"> <!-- testing 4 -->
 
 # Thesis
+The Maasai people have been subjected to the human right violation of property theft through assimilation and relocation which has eliminated their ability to maintain their cultural practices.
 
-The Maasai peoples have faced human rights violations through assimilation and relocation which has hindered their ability to continue/maintain their cultural practices.
 
-
-# Brief History
-	
-The Maasai People are thought to have originated in the Upper Nile Valley. Since they have spread throughout southern areas of Kenya and northern areas of Tanzania (310 miles/500 kilometers north to south Maasailand). They are bounded by Lake Victoria to the west and Mt. Kilimanjaro to the East (180/300 kilometers miles east to west Maasailand). They occupy 160,000 square kilometers of land in this area. 
+#History
+The Maasai people originally occupied what is now Sudan in the 17th century CE. In search for better agricultural land, they migrated to Central East Asia in 1750 CE in what is now southern Kenya and northern Tanzania. Their culture was shaped in part by the Nilotic peoples, a group who had already been living on the central east asian land prior to their arrival. They adopted the practice of circumcision, borrowed words eastern Nilotic languages to use in their Maa language, and were influenced by the group’s physical characteristics. The drastic change in weather conditions from Sudan to Kenya and Tanzania forced the Maasai group to abandon their agricultural plans. Instead, they shifted their focus towards stock-raising cattle and sheep, which would come to play an important role in their livelihoods.
 
 <param ve-video
 	id="https://www.youtube.com/embed/ThcppnztYpw"
@@ -36,7 +34,10 @@ The Maasai People are thought to have originated in the Upper Nile Valley. Since
 
 
 ## Population Size
-It has been estimated that there are 1,200,000 Maasai people living in Kenya and Tanzania. It is important to note that many Maasai people doubt these numbers as some have been counted multiple times and other opt to not be counted. 
+
+<param ve-image label="Map" url="http://userscontent2.emaze.com/images/a9cbd94e-916f-4976-85a0-dffc32788140/04ea984e-fa82-4e80-ab8b-def37bf6e09f.jpg">
+
+It has been estimated that there are 1,200,000 Maasai people living in Kenya and Tanzania. It is important to note that many Maasai people doubt these numbers as some have been counted multiple times and other opt to not be counted.
 
 “Please note that Most Maasai doubt these numbers. Many Maasai see the national census as government meddling and often miscount their numbers to census takers. Some people want to be counted ten times while others refused to be counted.”[^2]
 
