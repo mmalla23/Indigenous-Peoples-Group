@@ -20,7 +20,8 @@
 The Maasai people have been subjected to the human right violation of property theft through assimilation and relocation which has eliminated their ability to maintain their cultural practices.
 
 
-#History
+# History
+
 The Maasai people originally occupied what is now Sudan in the 17th century CE. In search for better agricultural land, they migrated to Central East Asia in 1750 CE in what is now southern Kenya and northern Tanzania. Their culture was shaped in part by the Nilotic peoples, a group who had already been living on the central east asian land prior to their arrival. They adopted the practice of circumcision, borrowed words eastern Nilotic languages to use in their Maa language, and were influenced by the group’s physical characteristics. The drastic change in weather conditions from Sudan to Kenya and Tanzania forced the Maasai group to abandon their agricultural plans. Instead, they shifted their focus towards stock-raising cattle and sheep, which would come to play an important role in their livelihoods.
 
 <param ve-video
@@ -31,7 +32,6 @@ The Maasai people originally occupied what is now Sudan in the 17th century CE. 
 
 
 # Basic Facts
-
 
 ## Population Size
 
