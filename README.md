@@ -36,12 +36,7 @@ The Maasai people originally occupied what is now Sudan in the 17th century CE. 
 ## Population Size
 It has been estimated that there are 1,200,000 Maasai people living in Kenya and Tanzania. It is important to note that many Maasai people doubt these numbers as some have been counted multiple times and other opt to not be counted.
 
-“Please note that Most Maasai doubt these numbers. Many Maasai see the national census as government meddling and often miscount their numbers to census takers. Some people want to be counted ten times while others refused to be counted.”[^2]
-
-## Language
-Maasai people speak Maa, an eastern Nilotic language, in Southern Kenya and Northern Tanzania. 
-## Religion
-The monotheistic Maasai people believe in the god, Enkai, and that they are god’s chosen people.
+“Please note that Most Maasai doubt these numbers. Many Maasai see the national census as government meddling and often miscount their numbers to census takers. Some people want to be counted ten times while others refused to be counted.”[^2]Maasai people speak Maa, an eastern Nilotic language, in Southern Kenya and Northern Tanzania. The monotheistic Maasai people believe in the god, Enkai, and that they are god’s chosen people.
 
 <param ve-image label="Map" url="http://userscontent2.emaze.com/images/a9cbd94e-916f-4976-85a0-dffc32788140/04ea984e-fa82-4e80-ab8b-def37bf6e09f.jpg">
 
