@@ -36,13 +36,22 @@ The Maasai people originally occupied what is now Sudan in the 17th century CE. 
 ## Population Size
 It has been estimated that there are 1,200,000 Maasai people living in Kenya and Tanzania. It is important to note that many Maasai people doubt these numbers as some have been counted multiple times and other opt to not be counted.
 
-“Please note that Most Maasai doubt these numbers. Many Maasai see the national census as government meddling and often miscount their numbers to census takers. Some people want to be counted ten times while others refused to be counted.”[^2]Maasai people speak Maa, an eastern Nilotic language, in Southern Kenya and Northern Tanzania. The monotheistic Maasai people believe in the god, Enkai, and that they are god’s chosen people.
+“Please note that Most Maasai doubt these numbers. Many Maasai see the national census as government meddling and often miscount their numbers to census takers. Some people want to be counted ten times while others refused to be counted.”[^2]
 
-<param ve-image label="Map" url="http://userscontent2.emaze.com/images/a9cbd94e-916f-4976-85a0-dffc32788140/04ea984e-fa82-4e80-ab8b-def37bf6e09f.jpg">
+## Languages
+Maasai people speak Maa, an eastern Nilotic language, in Southern Kenya and Northern Tanzania. 
+
+## Religion
+The monotheistic Maasai people believe in the god, Enkai, and that they are god’s chosen people.
+
+<param ve-image label="Map" url="https://www.masaimara.travel/images/Maasai%20Elders.jpg">
+
+## Cultural Features 
 
 # Treaties and Their Impact
 
 The Maasai Agreement of 1904 is the most important treaty centered around this indigenous group. It is often called the Anglo-Maasai Treaty, but that is an incorrect name. In this treaty, the Maasai agreed to cease possession of pastures in the central rift valley in return for exclusive rights of two territories, Kajiado and Laikipia. 
+
 The background of this treaty starts with an influx of land for the Maasai people after the war of Iliokop, as they were struggling to control and occupy this new territory. Other tribes would infiltrate their land, ruining their agricultural and cattle advances. This began the period traditionally known as “The Disaster.” Disease ravaged the grazing land and cattle, and as a result the Maasai people raided neighboring tribes and groups. After this, the British East Africa rotectorate Government came into view, which for a short time worked together with the Maasai. 
 
 
