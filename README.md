@@ -4,9 +4,11 @@
 <param ve-config 
        title="Maasai: Indigenous People "
        author="By: Kaylee, Marshury, and Sadie"
-       banner="https://www.yoair.com/blog/wp-content/uploads/2021/04/a-maasai-welcome-1-1920x768.jpg" 
+       banner="https://www.masaimara.com/assets/img/maasai-people-masai-mara-kenya.jpg" 
        layout="vertical">
 https://upload.wikimedia.org/wikipedia/commons/9/99/Maasai_tribe.jpg
+https://www.yoair.com/blog/wp-content/uploads/2021/04/a-maasai-welcome-1-1920x768.jpg
+
  
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
