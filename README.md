@@ -24,7 +24,7 @@ The Maasai people have been subjected to the human right violation of property t
 
 The detailed history and surroundings of the Maasai people have informed their unique cultural traditions and values.[^1] The Maasai people originally occupied the Upper Nile Valley--in what is now Sudan-- in the 17th century CE. In search of better agricultural land, they migrated to Central East Asia in 1750 CE in what is now southern Kenya and northern Tanzania. Here, the 1,200,000 Maasai people are bounded by Lake Victoria to the west and Mt. Kilimanjaro to the East. They occupy 160,000 square kilometers of land in this area. Their culture was shaped in part by the Nilotic peoples, a group who had already been living in the central east Asian land prior to their arrival. 
 <param ve-image label="Map" url="http://www.101lasttribes.com/maps/masai_map.jpg">
-<param ve-video
+<ve-video
 	id="https://www.youtube.com/embed/ThcppnztYpw"
 	title="The Life in Maasai Tribal|Emmanuel Milia Mankura|TEDxHongKongLive.Youtube:[https://www.youtube.com/watch?v=ThcppnztYpw]">
 
@@ -65,8 +65,11 @@ Colonists’ and powerful governments' ignorance of environmental issues that mo
 
 
 # Bibilography
+
+Link to document: 
+
+[^1]:[The Life in Maasai Tribal | Emmanuel Milia Mankura | TEDxHongKongLive Video.](https://www.youtube.com/watch?v=ThcppnztYpw)
+     
 Countries and Their Cultures. https://www.everyculture.com/wc/Tajikistan-to-Zimbabwe/Maasai.html.
-[^1]:[The Life in Maasai Tribal | Emmanuel Milia Mankura | TEDxHongKongLive Video.
-     https://www.youtube.com/embed/ThcppnztYpw.](https://www.youtube.com/watch?v=ThcppnztYpw)
 Maasai Association. http://www.maasai-association.org/maasai.html.
      
