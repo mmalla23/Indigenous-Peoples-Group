@@ -66,7 +66,7 @@ Colonists’ and powerful governments' ignorance of environmental issues that mo
 
 <param ve-image url="https://www.brookings.edu/wp-content/uploads/2017/07/maasai-bride_0001.jpg?w=1030&h=580&crop=1">
 
-# Bibilography 
+# Sources and Bibilography 
 [^1]:[The Life in Maasai Tribal | Emmanuel Milia Mankura | TEDxHongKongLive Video.](https://www.youtube.com/watch?v=ThcppnztYpw)
 
-[Link to Bibliography](https://docs.google.com/document/d/1vnCSVXDvafwNSG1tceAoU2PrsOZRDTWn-dZLkKB2vJ8/edit?usp=sharing)
+[Link to Bibilography](https://docs.google.com/document/d/1vnCSVXDvafwNSG1tceAoU2PrsOZRDTWn-dZLkKB2vJ8/edit?usp=sharing)
