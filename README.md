@@ -11,6 +11,9 @@
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q185372"> <!-- testing 1-->
+<param ve-entity eid="Q41264"> <!-- testing 2 -->
+<param ve-entity eid="Q221092"> <!-- testing 3 -->
+
 
 
 # Thesis
