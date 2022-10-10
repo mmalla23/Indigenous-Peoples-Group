@@ -65,9 +65,8 @@ Colonists’ and powerful governments' ignorance of environmental issues that mo
 
 
 # Bibilography
-Countries and Their Cultures. https://www.everyculture.com/wc/
-     Tajikistan-to-Zimbabwe/Maasai.html.
-[^1][The Life in Maasai Tribal | Emmanuel Milia Mankura | TEDxHongKongLive Video.
+Countries and Their Cultures. https://www.everyculture.com/wc/Tajikistan-to-Zimbabwe/Maasai.html.
+[^1:[The Life in Maasai Tribal | Emmanuel Milia Mankura | TEDxHongKongLive Video.
      https://www.youtube.com/embed/ThcppnztYpw.](https://www.youtube.com/watch?v=ThcppnztYpw)
 Maasai Association. http://www.maasai-association.org/maasai.html.
      
