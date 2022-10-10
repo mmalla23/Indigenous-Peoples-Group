@@ -69,16 +69,8 @@ The background of this treaty starts with an influx of land for the Maasai peopl
 
 
 # Environmental Challenges
-Before East Africa was colonized, the indigenous East Africans lived in harmony with the wildlife. But, as Europeans began dominating the area, indigenous Africans were forced to relocate so the Europeans could settle their rightful land. 
 
-<param ve-image label="Test" url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051604568/Maasai-pastoralists-livin-001.jpg">
-
-“As conservationists establish East African national parks to preserve important ecosystems, they are actually trying to preserve East Africa under the tutelage of its native peoples: the Maasai, the Rendille, the Kikuyu...It is ironic, then, that one of the first steps in establishing a national park is to rid the region of its original caretakers.”
-The Maasai people span many many different regions and are impacted by the establishment of national parks, as they are kicked off of their rightful land.
-Maasai was frequented by drought, but not a problem until Europeans arrived, then they started sometimes hunting for necessity instead of just drinking milk and blood of cows
-In 1891, the equilibrium was decimated and when the settler arrived, they believed they were setting on new wildlife, though this land belonged to the Maasai
-Treaty mentioned above gave some land back, but grazing dry land still was stolen.
-Very small cultural groups have been forced to extinction due to natural park development
+Climate change has caused the destruction of the Maasai’s property and threatened their cultural practices. For the past few years, the climate of Southern Kenya and Northern Tanzania has had an unprecedentedly long dry season, causing drought in Maasai tribal communities. The previous environmental conditions that cultural practices have been built around-- fertile land, long rainy seasons, and full rivers-- have allowed the Maasai people to thrive. Due to climate change, though, their cattle--a pillar of their livelihood-- become weak, do not produce milk, or even die. These environmental changes have posed life-threatening concerns that necessitate hunting for food which goes against their beliefs instead of drinking the milk and blood of their cattle. Without the help of action from the government, the Maasai people’s rich culture and traditions face extinction. 
 
 <param ve-compare curtain url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051615643/Maasai-pastoralists-livin-011.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=b79ae3ee57db2a0e31d758f9252c78be">
 <param ve-compare url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051614542/Maasai-pastoralists-livin-010.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=6f19a2e9ace5f34b8b7e3fc233c6f330">
