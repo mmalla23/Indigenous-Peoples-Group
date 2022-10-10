@@ -28,7 +28,7 @@ The detailed history and surroundings of the Maasai people have informed their u
 <param ve-image label="Map" url="http://www.101lasttribes.com/maps/masai_map.jpg">
 <param ve-video
 	id="https://www.youtube.com/embed/ThcppnztYpw"
-	title="The Life in Maasai Tribal|Emmanuel Milia Mankura|TEDxHongKongLive.">
+	title="The Life in Maasai Tribal|Emmanuel Milia Mankura|TEDxHongKongLive.Youtube:[https://www.youtube.com/watch?v=ThcppnztYpw]">
 
 The Maasai people had been influenced by the Nilotic peoples’ physical characteristics and borrowed words from eastern Nilotic languages to develop their language, Maa. They adopted practices such as circumcision and genital cutting, both of which are required to be considered a full member of the tribe. Other traditions include the milk and meat ceremony, during which Maasai people must drink the blood of cows and kill a lion in order to be initiated into a higher warrior ranking, and the ceremony of fire marks that tests boys’ willpower by requiring them to run over hot coal. Maasai people operate under a patriarchal system in which male elders control the village and believe in the Enkai god. Cattle are of utmost importance to the Maasai people and are the source of value necessary to gain a higher social status. Though, this was not always the case; the drastic change in weather conditions that came with their move from Sudan to Kenya and Tanzania forced the Maasai group to abandon their agricultural plans. Instead, they shifted their focus towards stock-raising cattle and sheep.
 
