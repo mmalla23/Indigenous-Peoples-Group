@@ -22,7 +22,6 @@ The Maasai people have been subjected to the human right violation of property t
 
 # History and Map
 
-
 The detailed history and surroundings of the Maasai people have informed their unique cultural traditions and values. The Maasai people originally occupied the Upper Nile Valley--in what is now Sudan-- in the 17th century CE. In search of better agricultural land, they migrated to Central East Asia in 1750 CE in what is now southern Kenya and northern Tanzania. Here, the 1,200,000 Maasai people are bounded by Lake Victoria to the west and Mt. Kilimanjaro to the East. They occupy 160,000 square kilometers of land in this area. Their culture was shaped in part by the Nilotic peoples, a group who had already been living in the central east Asian land prior to their arrival. The Maasai people had been influenced by the Nilotic peoples’ physical characteristics and borrowed words from eastern Nilotic languages to develop their language, Maa. They adopted practices such as circumcision and genital cutting, both of which are required to be considered a full member of the tribe. Other traditions include the milk and meat ceremony, during which Maasai people must drink the blood of cows and kill a lion in order to be initiated into a higher warrior ranking, and the ceremony of fire marks that tests boys’ willpower by requiring them to run over hot coal. Maasai people operate under a patriarchal system in which male elders control the village and believe in the Enkai god. Cattle are of utmost importance to the Maasai people and are the source of value necessary to gain a higher social status. Though, this was not always the case; the drastic change in weather conditions that came with their move from Sudan to Kenya and Tanzania forced the Maasai group to abandon their agricultural plans. Instead, they shifted their focus towards stock-raising cattle and sheep.
 
 
@@ -32,33 +31,7 @@ The detailed history and surroundings of the Maasai people have informed their u
 
 <param ve-image label="Map" url="http://www.101lasttribes.com/maps/masai_map.jpg">
 
-
-# Basic Facts
-
-## Population Size
-It has been estimated that there are 1,200,000 Maasai people living in Kenya and Tanzania. It is important to note that many Maasai people doubt these numbers as some have been counted multiple times and other opt to not be counted.
-
-“Please note that Most Maasai doubt these numbers. Many Maasai see the national census as government meddling and often miscount their numbers to census takers. Some people want to be counted ten times while others refused to be counted.”[^2]
-
-## Languages
-Maasai people speak Maa, an eastern Nilotic language, in Southern Kenya and Northern Tanzania. 
-
-## Religion
-The monotheistic Maasai people believe in the god, Enkai, and that they are god’s chosen people.
-
-<param ve-image label="Map" url="https://www.masaimara.travel/images/Maasai%20Elders.jpg">
-
-## Cultural Features
-
--Practice polygamy
--Engagement in genital mutilation/cutting
--Required to undergo the intiation ritual to be considered a full member of the community
-known for herding goats and cattle (only value recognized within Maasai), main concern is livestock, larger herd = higher social status, women milk cows and do housework, men herd cows, 
--Patriarchal society - male elders control village
--Communal societal system: several blood-related families live together, share responsibility of cattle
--Ceremony of fire marks - boys have to run over hot coal to test willpower
--Milk and meat ceremonies as part of initiation into higher warrior rankings
--Must drink the blood of their cows and kill a lion 
+<param ve-image label="Test 1" url="https://www.masaimara.travel/images/Maasai%20Elders.jpg">
 
 
 # Treaties and Their Impact
@@ -77,8 +50,9 @@ Climate change has caused the destruction of the Maasai’s property and threate
 <param ve-compare url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051617990/Maasai-pastoralists-livin-013.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=a2212d64f328042d9f059ecead693303">
 
 # Ongoing Human Rights Concerns
-Human rights being violated through assimilation and relocation, mentioned above 
-“Human rights violations have been committed, including torture, illegal imprisonment, shooting and wounding people, killing and maiming livestock, destroying property, and forced evictions and land dispossession, despite vocal condemnation by the international community and numerous civil society organizations and coalitions.”
+
+The Maasai people have been subjected to the human right violation of property theft through assimilation and relocation which has destroyed their ability to maintain their cultural practices. From the 1980s to today, the Maasai people have been displaced and dispossessed of their land due to the induction of wildlife conservation, national parks, and tourism that has been introduced. According to National Geographic, “The Maasai region has become a popular destination for safaris and wildlife tourism, bringing modest economic benefits to the area.” Currently more than 70,000 Maasai people are being relocated from their ancestral grazing lands to make way for these tourism hot spots, even paramilitary arrived in Loliondo in Arusha Region of Northern Tanzania to implement these eviction plans. 
+
 
 # Conclusion
 Colonists’ and powerful governments' ignorance of environmental issues that most impact indigenous groups perpetuate an inescapable pattern of assimilation, relocation, and ethnocide.  
