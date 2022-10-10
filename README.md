@@ -11,9 +11,7 @@
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q185372"> <!-- testing 1-->
-<param ve-entity eid="Q41264"> <!-- testing 2 -->
-<param ve-entity eid="Q221092"> <!-- testing 3 -->
-<param ve-entity eid="Q36600"> <!-- testing 4 -->
+
 
 # Thesis
 The Maasai people have been subjected to the human right violation of property theft through assimilation and relocation which has eliminated their ability to maintain their cultural practices.
@@ -67,4 +65,3 @@ Colonists’ and powerful governments' ignorance of environmental issues that mo
 [^3]: [Maasai Association](http://www.maasai-association.org/maasai.html)
 [^4]: [Maasai Association](http://www.maasai-association.org/maasai.html)
 [^5]: [Maasai Association](http://www.maasai-association.org/maasai.html)
-
