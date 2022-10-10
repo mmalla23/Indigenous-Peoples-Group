@@ -71,4 +71,5 @@ Colonists’ and powerful governments' ignorance of environmental issues that mo
 
 [Link to Bibilography](https://docs.google.com/document/d/1EVDKGkWRG8q6oIuew7MxLruoXnWK0-2Ab0os47J5G58/edit?usp=sharing)
 
-<param ve-image url="https://www.brookings.edu/wp-content/uploads/2017/07/maasai-bride_0001.jpg?w=1030&h=580&crop=1">
+<param ve-image 
+       manifest="https://www.brookings.edu/wp-content/uploads/2017/07/maasai-bride_0001.jpg?w=1030&h=580&crop=1">
