@@ -20,17 +20,15 @@
 The Maasai people have been subjected to the human right violation of property theft through assimilation and relocation which has eliminated their ability to maintain their cultural practices.
 
 
-# History
+# History and Map
 
-The Maasai people originally occupied what is now Sudan in the 17th century CE. In search for better agricultural land, they migrated to Central East Asia in 1750 CE in what is now southern Kenya and northern Tanzania. Their culture was shaped in part by the Nilotic peoples, a group who had already been living on the central east asian land prior to their arrival. They adopted the practice of circumcision, borrowed words eastern Nilotic languages to use in their Maa language, and were influenced by the group’s physical characteristics. The drastic change in weather conditions from Sudan to Kenya and Tanzania forced the Maasai group to abandon their agricultural plans. Instead, they shifted their focus towards stock-raising cattle and sheep, which would come to play an important role in their livelihoods. 
+
+The detailed history and surroundings of the Maasai people have informed their unique cultural traditions and values. The Maasai people originally occupied the Upper Nile Valley--in what is now Sudan-- in the 17th century CE. In search of better agricultural land, they migrated to Central East Asia in 1750 CE in what is now southern Kenya and northern Tanzania. Here, the 1,200,000 Maasai people are bounded by Lake Victoria to the west and Mt. Kilimanjaro to the East. They occupy 160,000 square kilometers of land in this area. Their culture was shaped in part by the Nilotic peoples, a group who had already been living in the central east Asian land prior to their arrival. The Maasai people had been influenced by the Nilotic peoples’ physical characteristics and borrowed words from eastern Nilotic languages to develop their language, Maa. They adopted practices such as circumcision and genital cutting, both of which are required to be considered a full member of the tribe. Other traditions include the milk and meat ceremony, during which Maasai people must drink the blood of cows and kill a lion in order to be initiated into a higher warrior ranking, and the ceremony of fire marks that tests boys’ willpower by requiring them to run over hot coal. Maasai people operate under a patriarchal system in which male elders control the village and believe in the Enkai god. Cattle are of utmost importance to the Maasai people and are the source of value necessary to gain a higher social status. Though, this was not always the case; the drastic change in weather conditions that came with their move from Sudan to Kenya and Tanzania forced the Maasai group to abandon their agricultural plans. Instead, they shifted their focus towards stock-raising cattle and sheep.
+
 
 <param ve-video
 	id="https://www.youtube.com/embed/ThcppnztYpw"
 	title="The Life in Maasai Tribal|Emmanuel Milia Mankura|TEDxHongKongLive.">
-
-# Map	
-The Maasai People are thought to have originated in the Upper Nile Valley. They have spread throughout southern areas of Kenya and northern areas of Tanzania (310 miles/500 kilometers north to south Maasailand). They are bounded by Lake Victoria to the west and Mt. Kilimanjaro to the East (180/300 kilometers miles east to west Maasailand). They occupy 160,000 square kilometers of land in this area. 
-
 
 <param ve-image label="Map" url="http://www.101lasttribes.com/maps/masai_map.jpg">
 
