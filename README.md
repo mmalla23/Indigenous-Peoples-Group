@@ -64,7 +64,7 @@ The Maasai people have been subjected to the human right violation of property t
 # Conclusion
 Colonists’ and powerful governments' ignorance of environmental issues that most impact indigenous groups perpetuate an inescapable pattern of assimilation, relocation, and ethnocide.  
 
+<param ve-image url="https://www.brookings.edu/wp-content/uploads/2017/07/maasai-bride_0001.jpg?w=1030&h=580&crop=1">
 
 # Bibilography 
-[Link to bibliography] 
 [^1]:[The Life in Maasai Tribal | Emmanuel Milia Mankura | TEDxHongKongLive Video.](https://www.youtube.com/watch?v=ThcppnztYpw)
