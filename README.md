@@ -37,6 +37,8 @@ The Maasai people had been influenced by the Nilotic peoples’ physical charact
 
 The Maasai Agreement of 1904 is the most important treaty centered around this indigenous group. It is often called the Anglo-Maasai Treaty, but that is an incorrect name. In this treaty, the Maasai agreed to cease possession of pastures in the central rift valley in return for exclusive rights of two territories, Kajiado and Laikipia. 
 
+<param ve-image label="Map of Territories" url="https://issafrica.s3.amazonaws.com/site/images/2021-11-03-kenya-county-map.png">
+
 The background of this treaty starts with an influx of land for the Maasai people after the war of Iliokop, as they were struggling to control and occupy this new territory. Other tribes would infiltrate their land, ruining their agricultural and cattle advances. This began the period traditionally known as “The Disaster.” Disease ravaged the grazing land and cattle, and as a result the Maasai people raided neighboring tribes and groups. After this, the British East Africa rotectorate Government came into view, which for a short time worked together with the Maasai.[^3] 
 
 
