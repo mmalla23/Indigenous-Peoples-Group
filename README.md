@@ -18,8 +18,9 @@
 # Thesis
 The Maasai people have been subjected to the human right violation of property theft through assimilation and relocation which has eliminated their ability to maintain their cultural practices.
 
-<param ve-image label="Maasai Tribe" url="https://www.masaimara.com/assets/img/maasai-people-masai-mara.jpg">
+<param ve-image label="Maasai Tribe" url="https://www.yoair.com/blog/wp-content/uploads/2021/04/a-maasai-welcome-1-1920x768.jpg">
 
+https://www.masaimara.com/assets/img/maasai-people-masai-mara.jpg
 
 # History and Map
 
