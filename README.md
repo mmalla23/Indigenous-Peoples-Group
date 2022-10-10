@@ -56,9 +56,6 @@ The Maasai people have been subjected to the human right violation of property t
 
 # Conclusion
 Colonists’ and powerful governments' ignorance of environmental issues that most impact indigenous groups perpetuate an inescapable pattern of assimilation, relocation, and ethnocide.  
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 
 # Bibilography
