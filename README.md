@@ -32,11 +32,7 @@ The Maasai people had been influenced by the Nilotic peoples’ physical charact
 	id="https://www.youtube.com/embed/ThcppnztYpw"
 	title="The Life in Maasai Tribal|Emmanuel Milia Mankura|TEDxHongKongLive.">
 
-
-
-<param ve-compare curtain url="http://userscontent2.emaze.com/images/a9cbd94e-916f-4976-85a0-dffc32788140/04ea984e-fa82-4e80-ab8b-def37bf6e09f.jpg">
-<param ve-compare url="http://userscontent2.emaze.com/images/a9cbd94e-916f-4976-85a0-dffc32788140/06600d47-c191-42c6-9fd8-0911a867ee2d.jpg">
-																   
+<param ve-compare curtain url="http://userscontent2.emaze.com/images/a9cbd94e-916f-4976-85a0-dffc32788140/04ea984e-fa82-4e80-ab8b-def37bf6e09f.jpg">	<param ve-compare url="http://userscontent2.emaze.com/images/a9cbd94e-916f-4976-85a0-dffc32788140/06600d47-c191-42c6-9fd8-0911a867ee2d.jpg">										   
 
 # Treaties and Their Impact
 
