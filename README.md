@@ -56,6 +56,9 @@ Climate change has caused the destruction of the Maasai’s property and threate
 
 The Maasai people have been subjected to the human right violation of property theft through assimilation and relocation which has destroyed their ability to maintain their cultural practices. From the 1980s to today, the Maasai people have been displaced and dispossessed of their land due to the induction of wildlife conservation, national parks, and tourism that has been introduced. According to National Geographic, “The Maasai region has become a popular destination for safaris and wildlife tourism, bringing modest economic benefits to the area.” Currently more than 70,000 Maasai people are being relocated from their ancestral grazing lands to make way for these tourism hot spots, even paramilitary arrived in Loliondo in Arusha Region of Northern Tanzania to implement these eviction plans.[^5] 
 
+<param ve-compare curtain url="https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2022/06/GettyImages-1239498359-scaled-e1655908370825.jpg?resize=1200%2C800&quality=85&strip=all&zoom=1&ssl=1">
+<param ve-compare url="https://static.dw.com/image/61318976_6.jpg" >
+
 
 # Conclusion
 Colonists’ and powerful governments' ignorance of environmental issues that most impact indigenous groups perpetuate an inescapable pattern of assimilation, relocation, and ethnocide.  
