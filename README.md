@@ -42,7 +42,6 @@ The Maasai Agreement of 1904 is the most important treaty centered around this i
 The background of this treaty starts with an influx of land for the Maasai people after the war of Iliokop, as they were struggling to control and occupy this new territory. Other tribes would infiltrate their land, ruining their agricultural and cattle advances. This began the period traditionally known as “The Disaster.” Disease ravaged the grazing land and cattle, and as a result the Maasai people raided neighboring tribes and groups. After this, the British East Africa rotectorate Government came into view, which for a short time worked together with the Maasai.[^3] 
 <param ve-image 
        manifest="https://issafrica.s3.amazonaws.com/site/images/2021-11-03-kenya-county-map.png">
-<param ve-map center="Q36600" zoom="11">
 
 
 # Environmental Challenges
