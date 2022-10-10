@@ -32,6 +32,7 @@ The Maasai people had been influenced by the Nilotic peoples’ physical charact
 										   
 <param ve-compare curtain url="https://www.serengetiparktanzania.com/wp-content/uploads/2019/09/Maasai-Tribe.jpg">
 <param ve-compare url="http://userscontent2.emaze.com/images/a9cbd94e-916f-4976-85a0-dffc32788140/04ea984e-fa82-4e80-ab8b-def37bf6e09f.jpg">
+<param ve-compare url= http://userscontent2.emaze.com/images/a9cbd94e-916f-4976-85a0-dffc32788140/06600d47-c191-42c6-9fd8-0911a867ee2d.jpg>
 
 # Treaties and Their Impact
 
@@ -50,7 +51,7 @@ Climate change has caused the destruction of the Maasai’s property and threate
 
 <param ve-compare curtain url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051615643/Maasai-pastoralists-livin-011.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=b79ae3ee57db2a0e31d758f9252c78be">
 <param ve-compare url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051614542/Maasai-pastoralists-livin-010.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=6f19a2e9ace5f34b8b7e3fc233c6f330">
-<param ve-compare url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/23/1322051617990/Maasai-pastoralists-livin-013.jpg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=a2212d64f328042d9f059ecead693303">
+
 
 # Ongoing Human Rights Concerns
 
