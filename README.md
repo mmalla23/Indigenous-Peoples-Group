@@ -6,9 +6,6 @@
        author="By: Kaylee, Marshury, and Sadie"
        banner="https://www.masaimara.com/assets/img/maasai-people-masai-mara-kenya.jpg" 
        layout="vertical">
-https://upload.wikimedia.org/wikipedia/commons/9/99/Maasai_tribe.jpg
-https://www.yoair.com/blog/wp-content/uploads/2021/04/a-maasai-welcome-1-1920x768.jpg
-
  
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -29,10 +26,10 @@ The Maasai people have been subjected to the human right violation of property t
 The detailed history and surroundings of the Maasai people have informed their unique cultural traditions and values. The Maasai people originally occupied the Upper Nile Valley--in what is now Sudan-- in the 17th century CE. In search of better agricultural land, they migrated to Central East Asia in 1750 CE in what is now southern Kenya and northern Tanzania. Here, the 1,200,000 Maasai people are bounded by Lake Victoria to the west and Mt. Kilimanjaro to the East. They occupy 160,000 square kilometers of land in this area. Their culture was shaped in part by the Nilotic peoples, a group who had already been living in the central east Asian land prior to their arrival. 
 <param ve-image label="Map" url="http://www.101lasttribes.com/maps/masai_map.jpg">
 <param ve-video
-	id="https://www.youtube.com/embed/ThcppnztYpw"
+	id="https://www.youtube.com/watch?v=ThcppnztYpw"
 	title="The Life in Maasai Tribal|Emmanuel Milia Mankura|TEDxHongKongLive.">
 
-
+https://www.youtube.com/embed/ThcppnztYpw
 The Maasai people had been influenced by the Nilotic peoples’ physical characteristics and borrowed words from eastern Nilotic languages to develop their language, Maa. They adopted practices such as circumcision and genital cutting, both of which are required to be considered a full member of the tribe. Other traditions include the milk and meat ceremony, during which Maasai people must drink the blood of cows and kill a lion in order to be initiated into a higher warrior ranking, and the ceremony of fire marks that tests boys’ willpower by requiring them to run over hot coal. Maasai people operate under a patriarchal system in which male elders control the village and believe in the Enkai god. Cattle are of utmost importance to the Maasai people and are the source of value necessary to gain a higher social status. Though, this was not always the case; the drastic change in weather conditions that came with their move from Sudan to Kenya and Tanzania forced the Maasai group to abandon their agricultural plans. Instead, they shifted their focus towards stock-raising cattle and sheep.
 
 <param ve-compare curtain url="http://userscontent2.emaze.com/images/a9cbd94e-916f-4976-85a0-dffc32788140/04ea984e-fa82-4e80-ab8b-def37bf6e09f.jpg">	<param ve-compare url="http://userscontent2.emaze.com/images/a9cbd94e-916f-4976-85a0-dffc32788140/06600d47-c191-42c6-9fd8-0911a867ee2d.jpg">										   
