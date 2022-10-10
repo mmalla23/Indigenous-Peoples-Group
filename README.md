@@ -20,11 +20,9 @@ The Maasai people have been subjected to the human right violation of property t
 
 <param ve-image label="Maasai Tribe" url="https://www.masaimara.com/assets/img/maasai-people-masai-mara-kenya.jpg">
 
-
-
 # History and Map
 
-The detailed history and surroundings of the Maasai people have informed their unique cultural traditions and values. The Maasai people originally occupied the Upper Nile Valley--in what is now Sudan-- in the 17th century CE. In search of better agricultural land, they migrated to Central East Asia in 1750 CE in what is now southern Kenya and northern Tanzania. Here, the 1,200,000 Maasai people are bounded by Lake Victoria to the west and Mt. Kilimanjaro to the East. They occupy 160,000 square kilometers of land in this area. Their culture was shaped in part by the Nilotic peoples, a group who had already been living in the central east Asian land prior to their arrival. 
+The detailed history[^1] and surroundings of the Maasai people have informed their unique cultural traditions and values. The Maasai people originally occupied the Upper Nile Valley--in what is now Sudan-- in the 17th century CE. In search of better agricultural land, they migrated to Central East Asia in 1750 CE in what is now southern Kenya and northern Tanzania. Here, the 1,200,000 Maasai people are bounded by Lake Victoria to the west and Mt. Kilimanjaro to the East. They occupy 160,000 square kilometers of land in this area. Their culture was shaped in part by the Nilotic peoples, a group who had already been living in the central east Asian land prior to their arrival. 
 <param ve-image label="Map" url="http://www.101lasttribes.com/maps/masai_map.jpg">
 <param ve-video
 	id="https://www.youtube.com/embed/ThcppnztYpw"
@@ -60,4 +58,5 @@ Colonists’ and powerful governments' ignorance of environmental issues that mo
 
 
 # Bibilography
+[^1] [The Life in Maasai Tribal|Emmanuel Milia Mankura|TEDxHongKongLive](https://www.youtube.com/watch?v=ThcppnztYpw)
 [^2]: [Maasai Association](http://www.maasai-association.org/maasai.html)
