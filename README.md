@@ -58,5 +58,5 @@ Colonists’ and powerful governments' ignorance of environmental issues that mo
 
 
 # Bibilography
-[^1]: [The Life in Maasai Tribal|Emmanuel Milia Mankura|TEDxHongKongLive](https://www.youtube.com/watch?v=ThcppnztYpw)
+[^1]: [The Life in Maasai Tribal | Emmanuel Milia Mankura | TEDxHongKongLive](https://www.youtube.com/watch?v=ThcppnztYpw)
 [^2]: [Maasai Association](http://www.maasai-association.org/maasai.html)
