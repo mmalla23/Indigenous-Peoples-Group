@@ -91,7 +91,7 @@ Human rights being violated through assimilation and relocation, mentioned above
 “Human rights violations have been committed, including torture, illegal imprisonment, shooting and wounding people, killing and maiming livestock, destroying property, and forced evictions and land dispossession, despite vocal condemnation by the international community and numerous civil society organizations and coalitions.”
 
 # Conclusion
-testing this section/work in progress 
+Colonists’ and powerful governments' ignorance of environmental issues that most impact indigenous groups perpetuate an inescapable pattern of assimilation, relocation, and ethnocide.  
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
